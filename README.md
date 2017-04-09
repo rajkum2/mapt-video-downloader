@@ -1,4 +1,4 @@
-# Codecourse Downloader
+# Mapt Video Downloader
 Download codecourse.com videos.
 ![Screenshot](screenshot.png)
 ## Description
