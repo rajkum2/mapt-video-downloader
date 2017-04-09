@@ -1,4 +1,6 @@
 {
+  "name": "mapt-video-downloader",
+  "description": "PHP library to download mapt video lessons",
   "require": {
     "symfony/console": "*",
     "guzzlehttp/guzzle": "*",
